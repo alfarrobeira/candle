@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/candle/static/css/main.d52454a3.css",
+    "main.js": "/candle/static/js/main.6c822e85.js",
+    "index.html": "/candle/index.html",
+    "main.d52454a3.css.map": "/candle/static/css/main.d52454a3.css.map",
+    "main.6c822e85.js.map": "/candle/static/js/main.6c822e85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d52454a3.css",
+    "static/js/main.6c822e85.js"
+  ]
+}
